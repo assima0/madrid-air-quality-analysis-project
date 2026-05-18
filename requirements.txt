@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+networkx
+pyarrow
+xgboost
+scipy
+streamlit
+plotly
+pydeck
+pyproj
