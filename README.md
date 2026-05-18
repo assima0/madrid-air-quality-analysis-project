@@ -30,9 +30,9 @@ The pipeline works with (can be chosen):
 - the full parquet dataset for complete analysis.
 
 ## Dataset Availability
-!The raw parquet files and sample files are not included in this repository due to their large size.  
+The raw parquet files and sample files are not included in this repository due to their large size.  
 To run the full pipeline, place the original parquet dataset inside the expected `files/` directory before executing `main.py`.
-The provided `sample.csv` can still be used for testing.
+To use the sample, place `sample.csv` in the project root directory (same level as `main.py`).
 
 ## Main Outputs
 The project generates:
