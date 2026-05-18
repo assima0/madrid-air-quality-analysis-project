@@ -66,7 +66,7 @@ The project generates:
 ```sh
    streamlit run dashboard.py
 ```
-# Note: On lower-memory machines, it may be necessary to run the tasks sequentially rather than executing the full pipeline at once. During development, one team member with 8 GB RAM laptop was able to run the project successfully only by running tasks one after another.
+## Note: On lower-memory machines, it may be necessary to run the tasks sequentially rather than executing the full pipeline at once. During development, one team member with 8 GB RAM laptop was able to run the project successfully only by running tasks one after another.
 
 ## Implementation Notes
 - The pipeline is completely modular, meaning that each task can be executed independently once its required inputs are available.
